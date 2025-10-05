@@ -53,7 +53,7 @@ Esses testes ajudaram a garantir que a instância estava funcionando corretament
 - Documentação: O Azure possui uma documentação extensa, o que é extremamente útil. Aproveite os tutoriais e guias disponíveis na plataforma.
 - Segurança: Lembre-se sempre de revisar as configurações de segurança, habilitando somente o acesso necessário e utilizando autenticação forte.
 - Monitoramento: Utilize a ferramenta de monitoramento do Azure para acompanhar a performance e ajustar a configuração conforme sua necessidade.
-- 
+
 ### Conclusão
 A configuração da instância de Banco de Dados PostgreSQL na Microsoft Azure foi uma experiência valiosa. Aprendi não apenas a criar e gerenciar um banco de dados na nuvem, mas também sobre a importância de segurança e escalabilidade em projetos futuros. Sinto-me mais preparada para usar o Azure em meus desenvolvimentos e espero que esse repositório de anotações sirva como um guia útil para mim e para outros desenvolvedores.
 
